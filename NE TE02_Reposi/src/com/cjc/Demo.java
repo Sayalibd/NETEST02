@@ -11,9 +11,9 @@ public class Demo {
 	  System.out.println("M2---Method");
 	}
 	
-	public void m3()
+	public void m4()
 	{
-	  System.out.println("M3---Method");
+	  System.out.println("M4---Method");
 	}
 
 	public static void main(String[] args) 
