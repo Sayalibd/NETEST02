@@ -15,6 +15,10 @@ public class Demo {
 	{
 	  System.out.println("M3---Method");
 	}
+	public void m4()
+	{
+	  System.out.println("M4---Method");
+	}
 
 	public static void main(String[] args) 
 	{
